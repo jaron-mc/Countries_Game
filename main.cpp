@@ -5,7 +5,7 @@
 #include <fstream>
 #include <algorithm>
 #include <cstdlib>
-#include "Game.h"
+#include "Game.hpp"
 #include <ctime>
 
 int main(void) {
